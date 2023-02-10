@@ -19,6 +19,10 @@ main>.container {
     color: rgb(195, 255, 0);
 }
 
+.minHeight {
+    min-height: 80vh;
+}
+
 .sticky-footer {
     position: sticky;
     left: 0;
